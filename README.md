@@ -36,7 +36,8 @@ This project automates the intake, tracking, and alerting of ad hoc data request
 
 | Dashboard Overview | Open Requests Table | Priority Trends |
 |--------------------|---------------------|-----------------|
-| _Insert screenshot here_ | _Insert screenshot here_ | _Insert screenshot here_ |
+| ![Dashboard Overview](dashboard-overview.png)
+ | ![Open Requests Table](open-requests-table.png) | ![Priority Trends](priority-trends.png) |
 
 ---
 
