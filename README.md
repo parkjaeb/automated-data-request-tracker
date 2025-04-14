@@ -70,7 +70,7 @@ Data teams often lose track of informal data requests, especially in Slack-based
 ## 👋 Let’s Connect
 
 Have ideas for improvements? Want to adapt this for your own team or workflow?  
-Drop me a message on [LinkedIn](https://www.linkedin.com/) or open an issue!
+Drop me a message on [LinkedIn](https://www.linkedin.com/in/jae-beom-park) or open an issue!
 
 ---
 
